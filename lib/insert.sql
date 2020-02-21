@@ -5,4 +5,4 @@ INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES("Sergeant
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES("Melissa", 9, "Grizzly", "mean", 1);
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES("Grinch", 5, "brown", "nice", 0);
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES("Wendy", 10, "black", "hungry", 1);
-INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES(null, 3, "grizzly", "mean", 0);
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES("null", 3, "grizzly", "mean", 0);
